@@ -1,0 +1,18 @@
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\bin\Debug\identify abbreviations.exe
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\bin\Debug\identify abbreviations.pdb
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.csprojResolveAssemblyReference.cache
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\obj\Debug\identify_abbreviations.MainForm.resources
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.csproj.GenerateResource.Cache
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.exe
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.pdb
+\\italia.texa.org\hq\homeUsers\jlicciardello\C#\Progetti miei\Individua abbreviaizoni\identify abbreviations\identify abbreviations\bin\Debug\ExcelLibrary.dll
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\bin\Debug\identify abbreviations.exe
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\bin\Debug\identify abbreviations.pdb
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\bin\Debug\ExcelLibrary.dll
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.csprojAssemblyReference.cache
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify_abbreviations.MainForm.resources
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.csproj.GenerateResource.cache
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.csproj.CoreCompileInputs.cache
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.csproj.CopyComplete
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.exe
+E:\Programmazione Jan\C#\Progetti di lavoro\Identify\identify abbreviations\identify abbreviations\obj\Debug\identify abbreviations.pdb
